@@ -2,7 +2,7 @@
 <img src="https://github.com/KaatoDev/NotzShop/assets/107152563/87989bce-fa8d-49a9-9e51-125563fa2497" alt="" height="320" >
 
 #
-NotzShop é um plugin de loja virtual com sistema de carrinho e mochila virtual e suporte à SQLite.
+NotzShop é um plugin de loja virtual com sistema de carrinho e mochila virtual e suporte a SQLite.
 
 ## Informações
 ### `Carrinho`
