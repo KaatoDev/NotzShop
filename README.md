@@ -40,19 +40,25 @@ Sistema que salva os itens comprados (salvando-os em database) e possibilita par
 
 ## Permissões
 
-- `notzstorage.admin` - 
+- `notzstorage.admin` - Acesso aos comandos de admin.
 
 ## Commandos
- - `/loja` - 
+ - `/loja` - Abre o menu de loja.
+ - `/mochila` - Abre a mochila.
+ - `/resgatar` - Resgata os itens da mochila por ordem padrão.
 
 ## Comandos `Admin`
- - `/nshop` - 
+ - `/nshop` setprice \<nome> \<preço> - Altera o preço de um item específico.
 
 ### `Aliases`
 - `/loja`:
-  - `/shop`, `/vp`
+  - `/lojas`, `/shop`, `/shops`, `/comprar`, `/compra`, `/compras`
 - `/nshop`
-  - `/ns`
+  - `/nshops`, `/nloja`, `nlojas`
+- `/mochila`
+  - `/bag`
+- `/resgatar`
+  - `/claimbag`
 
 
  ###### | <> argumento obrigatório. | () argumento opcional. |
