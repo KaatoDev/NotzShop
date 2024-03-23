@@ -33,9 +33,6 @@ Sistema que salva os itens comprados (salvando-os em database) e possibilita par
 ![Screenshot_216](https://github.com/KaatoDev/NotzShop/assets/107152563/836eab7d-0823-4832-bb67-4d0e55ea4c02)
 ![Screenshot_221](https://github.com/KaatoDev/NotzShop/assets/107152563/9dacd8ae-4db3-45ee-9c9d-4c7cc23e7517)
 ![Screenshot_220](https://github.com/KaatoDev/NotzShop/assets/107152563/8bf5972a-3567-414d-8f71-87ad3f352963)
-
-- ### Mochila
-
 ![Screenshot_222](https://github.com/KaatoDev/NotzShop/assets/107152563/dc1e6107-95ab-4be5-ba7d-513f0cba2bb5)
 
 ## Permissões
